@@ -1,2 +1,4 @@
+new feature to the project documentation
+
 Collaboration Demo Project
 Version 1.0
